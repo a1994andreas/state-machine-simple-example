@@ -14,13 +14,8 @@ int greekUpperN(int num);
 int greekLowerN(int num);
 void print_character(int num);
 int main(void){
-int /*i=0,*/c , boh8 /*,k=0*/;
-/*arxikopoihsh pikana
-for(i ; i<arr_size1 ; i++){
-  for(k ; k<arr_size2 ; k++){
-    array[i][k]='\0';
-   }
-}*/
+int c , boh8;
+
 /*antistixish ellhnikwn-agglikwn xarakthrwn*/
 array[168][0]=34; /*dialutika*/
 array[180][0]=39; /*tonos*/
